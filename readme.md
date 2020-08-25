@@ -1,11 +1,8 @@
-HI there my name is Buggaveeti yeshwanth and i created this web application for #TSF(grip).!
-and i hosted it on =) https://creditmana.000webhostapp.com/yeshwanthbug/  and you can find my code in git repository with the 
-   https://github.com/yeshwanth69/creditmanagement_webapplication  . (gitid =yeshwanth69) and you can get acces to my code with .sql file as i leave it the repository 
+HI there my name is Nishchai G N and I created this web application for #TSF(grip).!
+and i hosted it on =) http://creditmanagment77.epizy.com/index.php  and you can find my code in git repository with the 
+   https://github.com/Nishchai-77/creditmanagementwebapp . (gitid =Nishchai-77)
 
-
-https://creditmana.000webhostapp.com/yeshwanthbug/
-
-the task requirements ____=?
+task2:
 
 ◇1) Create a simple dynamic website which has the following specs.
 ◇2) Start with creating dummy data in database for upto 10 users.
